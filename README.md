@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-### Yoo ![FlexxicE](/img/FlexxicE.png) here 👋
+# Yoo <img src="./img/FlexxicE.png" height=45vh alt="FlexxicE"> here 👋
 
 -   🔭 I’m currently working on some small private projects
 -   🌱 I’m currently learning to extend my knowledge about Python
